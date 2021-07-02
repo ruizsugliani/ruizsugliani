@@ -1,4 +1,4 @@
-- 💯 Hi, I’m Santiago Nahuel Ruiz Sugliani !!!
+- 💯 Hi, my name Santiago Nahuel Ruiz Sugliani.
 - 🚀 I’m interested in learning about programming lenguages , algorithms and PC components.
 - 🌱 I’m currently studing Software Engineering in Faculdad de Ingeniería de la Universidad de Buenos Aires.
 - 📫 You can contact me by gmail -> santiago.ruiz.sugliani@gmail.com
