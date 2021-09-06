@@ -1,7 +1,10 @@
-- 💯 Hi, my name Santiago Nahuel Ruiz Sugliani.
-- 🚀 I’m interested in learning about programming lenguages , algorithms and PC components.
-- 🌱 I’m currently studing Software Engineering in Faculdad de Ingeniería de la Universidad de Buenos Aires.
-- 📫 You can contact me by gmail -> santiago.ruiz.sugliani@gmail.com
+# **Hola ! Mi nombre es Santiago !**
+##  *Soy estudiante de Licenciatura en Análisis de Sistemas  en la Universidad de Buenos Aires (FIUBA).*
+***Acá se encuentran mis trabajos realizados hasta ahora en materias como Algoritmos y Programación 1 y 2.
+Me gusta mucho programar y aprender sobre todo lo referido a PC's , actualmente busco capacitarme lo mejor posible
+para conseguir un trabajo relacionado a esto mismo al mismo tiempo que continúo mis estudios, mi mail de contacto es _santiago.ruiz.sugliani@gmail.com_ y mi
+perfil de [Linked In](https://www.linkedin.com/in/santiago-nahuel-ruiz-sugliani-a2bb441b8/).
+En mi tiempo libre practico los lenguajes que aprendí (Lenguaje C y Python) en [Hacker Rank](https://www.hackerrank.com/sruizs).**
 
 <!---
 ruizsugliani/ruizsugliani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
