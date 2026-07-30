@@ -26,8 +26,6 @@
 | [Programación Concurrente](./segundo-anio/arquitectura) | TB026 | [![Notion](https://img.shields.io/badge/-000000?style=flat-square&logo=notion&logoColor=white)](https://app.notion.com/p/Programaci-n-Concurrente-30a4fe44692e804298b8f685e776eff3?v=1ad4fe44692e81649a9b000c3e3421fc&source=copy_link) | Deymonnaz | ✔️ Aprobada |
 | [Gestión del Desarrollo de Sistemas Informáticos](./SplitWise) | TC017 | [![Notion](https://img.shields.io/badge/-000000?style=flat-square&logo=notion&logoColor=white)](https://app.notion.com/p/Gesti-n-del-Desarrollo-de-Sistemas-Inform-ticos-31d4fe44692e8096a55bc313315b60fb?v=1ad4fe44692e81649a9b000c3e3421fc&source=copy_link) | Fontdevilla | ✔️ Aprobada |
 
-**Leyenda:** ✔️ Aprobada · 🔄 Cursando
-
 ---
 
 ## 📬 Contacto
