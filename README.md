@@ -1,19 +1,13 @@
 <h1 align="center">¡Hola! Soy Santiago 👋</h1>
-
 <p align="center">
   Estudiante de Ingeniería Informática en FIUBA 🎓 <br>
-  Este repo reúne mis <b>apuntes</b>, <b>resúmenes</b>, <b>ejercicios</b> y <b>código</b> de algunas materias que cursé
+  Este repo reúne <b>apuntes</b>, <b>resúmenes</b>, <b>ejercicios</b> y <b>código</b> de algunas materias que cursé
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Estado-En%20curso-brightgreen?style=for-the-badge" alt="estado"/>
   <img src="https://img.shields.io/badge/Última%20actualización-2026-orange?style=for-the-badge" alt="update"/>
 </p>
-
 <p align="center">
   <a href="#-materias">Materias</a> •
-  <a href="#-cómo-está-organizado">Organización</a> •
-  <a href="#-tecnologías">Tecnologías</a> •
   <a href="#-contacto">Contacto</a>
 </p>
 
@@ -21,72 +15,18 @@
 
 ## 📚 Materias
 
-> Hacé clic en cada materia para ir a la carpeta con apuntes, ejercicios y trabajos prácticos.
+| Materia | Código | Notion | Cátedra | Estado |
+|---|:---:|:---:|:---:|:---:|
+| [Bases de Datos](./primer-anio/analisis-1) | TA044 | [![Notion](https://img.shields.io/badge/-000000?style=flat-square&logo=notion&logoColor=white)]([https://notion.so/tu-workspace/analisis-1](https://app.notion.com/p/Bases-de-Datos-3104fe44692e809cbc9ccf9212c2e735?source=copy_link)) | Román | ✔️ Aprobada |
+| [Sistemas Operativos](./primer-anio/algebra) | TA043 | [![Notion](https://img.shields.io/badge/-000000?style=flat-square&logo=notion&logoColor=white)]([https://notion.so/tu-workspace/algebra](https://app.notion.com/p/Sistemas-Operativos-3104fe44692e80809bd2e6b18f91508c?source=copy_link)) | Méndez | ✔️ Aprobada |
+| [Redes](./primer-anio/algoritmos-1) | TA048 | [![Notion](https://img.shields.io/badge/-000000?style=flat-square&logo=notion&logoColor=white)]([https://notion.so/tu-workspace/algoritmos-1](https://app.notion.com/p/Redes-1ad4fe44692e81a78bf1db81812e4e5e?source=copy_link)) | Hamelin | ✔️ Aprobada |
+| [Teoría de algoritmos](./segundo-anio/estructuras-de-datos) | TB024 | [![Notion](https://img.shields.io/badge/-000000?style=flat-square&logo=notion&logoColor=white)]([https://notion.so/tu-workspace/estructuras-de-datos](https://app.notion.com/p/Teor-a-de-algoritmos-1ad4fe44692e81e4bcf1fb9a02c0f527?source=copy_link)) | Podberesky | ✔️ Aprobada |
+| [Empresas de Base Tecnológica](./segundo-anio/bases-de-datos) | TC018 | [![Notion](https://img.shields.io/badge/-000000?style=flat-square&logo=notion&logoColor=white)]([https://notion.so/tu-workspace/bases-de-datos](https://app.notion.com/p/Empresas-de-Base-Tecnol-gica-22a4fe44692e808a9e1edc6512aea391?v=1ad4fe44692e81649a9b000c3e3421fc&source=copy_link)) | Godoy | ✔️ Aprobada |
+| [Modelación Numérica](./segundo-anio/arquitectura) | CB051 | [![Notion](https://img.shields.io/badge/-000000?style=flat-square&logo=notion&logoColor=white)]([https://notion.so/tu-workspace/arquitectura](https://app.notion.com/p/Modelaci-n-Num-rica-2294fe44692e804491dbd9bd6341d39e?v=1ad4fe44692e81649a9b000c3e3421fc&source=copy_link)) | Cavaliere | ✔️ Aprobada |
+| [Programación Concurrente](./segundo-anio/arquitectura) | TB026 | [![Notion](https://img.shields.io/badge/-000000?style=flat-square&logo=notion&logoColor=white)]([https://notion.so/tu-workspace/arquitectura](https://app.notion.com/p/Programaci-n-Concurrente-30a4fe44692e804298b8f685e776eff3?v=1ad4fe44692e81649a9b000c3e3421fc&source=copy_link)) | Deymonnaz | ✔️ Aprobada |
+| [Gestión del Desarrollo de Sistemas Informáticos](./segundo-anio/arquitectura) | TC017 | [![Notion](https://img.shields.io/badge/-000000?style=flat-square&logo=notion&logoColor=white)]([https://notion.so/tu-workspace/arquitectura](https://app.notion.com/p/Gesti-n-del-Desarrollo-de-Sistemas-Inform-ticos-31d4fe44692e8096a55bc313315b60fb?v=1ad4fe44692e81649a9b000c3e3421fc&source=copy_link)) | Fontdevilla | ✔️ Aprobada |
 
-### 🧮 Primer año
-
-| Materia | Apuntes | Código / TPs | Estado |
-|---|:---:|:---:|:---:|
-| [Análisis Matemático I](./primer-anio/analisis-1) | ✅ | — | ✔️ Aprobada |
-| [Álgebra](./primer-anio/algebra) | ✅ | — | ✔️ Aprobada |
-| [Algoritmos y Programación I](./primer-anio/algoritmos-1) | ✅ | [💻](./primer-anio/algoritmos-1/src) | ✔️ Aprobada |
-
-### 🖥️ Segundo año
-
-| Materia | Apuntes | Código / TPs | Estado |
-|---|:---:|:---:|:---:|
-| [Estructuras de Datos](./segundo-anio/estructuras-de-datos) | ✅ | [💻](./segundo-anio/estructuras-de-datos/src) | 🔄 Cursando |
-| [Bases de Datos](./segundo-anio/bases-de-datos) | ✅ | [💻](./segundo-anio/bases-de-datos/src) | 🔄 Cursando |
-| [Arquitectura de Computadoras](./segundo-anio/arquitectura) | 🚧 | — | 🔄 Cursando |
-
-<details>
-<summary>➕ Ver más años (clic para expandir)</summary>
-
-### 🚀 Tercer año
-
-| Materia | Apuntes | Código / TPs | Estado |
-|---|:---:|:---:|:---:|
-| [Sistemas Operativos](./tercer-anio/sistemas-operativos) | ⏳ | ⏳ | 📌 Pendiente |
-| [Redes](./tercer-anio/redes) | ⏳ | ⏳ | 📌 Pendiente |
-
-</details>
-
-**Leyenda:** ✅ Completo · 🚧 En progreso · ⏳ Sin empezar · ✔️ Aprobada · 🔄 Cursando · 📌 Pendiente
-
----
-
-## 🗂 Cómo está organizado
-
-```
-📦 repositorio
- ┣ 📂 primer-anio
- ┃ ┣ 📂 analisis-1
- ┃ ┃ ┣ 📄 apuntes.md
- ┃ ┃ ┗ 📂 ejercicios
- ┃ ┗ 📂 algoritmos-1
- ┃   ┣ 📄 apuntes.md
- ┃   ┗ 📂 src
- ┣ 📂 segundo-anio
- ┃ ┗ ...
- ┗ 📄 README.md
-```
-
-Cada carpeta de materia sigue la misma convención:
-- `apuntes.md` → resúmenes teóricos y notas de clase.
-- `src/` o `ejercicios/` → código, TPs y resoluciones.
-- `recursos/` → material adicional (links, PDFs propios, cheatsheets).
-
----
-
-## 🛠 Tecnologías
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/>
-</p>
+**Leyenda:** ✔️ Aprobada · 🔄 Cursando 
 
 ---
 
@@ -94,7 +34,7 @@ Cada carpeta de materia sigue la misma convención:
 
 <p>
   <a href="mailto:santiago.ruiz.sugliani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/santiago-nahuel-ruiz-sugliani"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/santiago-nahuel-ruiz-sugliani-a2bb441b8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
